@@ -1,0 +1,133 @@
+REVISION: 0.89.08
+REVDATE : 20221219
+
+DATE: <TODAYS DATE>
+
+               TorIX Application for new peers
+            =====================================
+In order to connect to TorIX we require a set of information to allow us 
+to set you up on our internal systems for access to resources/information.
+
+Information regarding the form:
+ section 0, we will assign your IPv4 and IPv6  addresses and DNS resolution.
+ section 4, peering policy will be one of the following:
+	[open]	 We are willing to peer with anyone
+	[closed] We do not want people to contact us, we'll contact them
+	[conditional] We have a policy that needs to be met.
+ section 5, Cross connect information.  All port speeds use single-mode fiber
+	and LR optics only.
+
+IF you have any questions regarding this form or the form has been completed,
+please send an email to peering@torix.ca.
+
+** Please do not hand-write, use typed text to complete this document and send
+   as a plain text file.
+
+** We will NOT accept non-text formats of this application.  Do NOT send PDF's,
+   MS Word documents etc.
+
+...............................................................................
+
+Section 0: TorIX information [office use]
+ IP Address . . . . . . . . . . . . : 206.108.35.xxx
+ Hostname resolution. . . . . . . . : xxxxx.torontointernetxchange.net
+
+
+Section 1: Peer Information
+ Peering Organization Name . . . . . . . . . . . :
+ Peering Organization Address. . . . . . . . . . :
+ Peering Organization City/Province/State. . . . :
+ Peering Organization Country. . . . . . . . . . :
+ Peering Organization Postal Code/Zip Code . . . :
+ Peering Organization Phone. . . . . . . . . . . :
+ Peering Organization Fax. . . . . . . . . . . . :
+ Peering Organization Industry (select one only) : [ ] ISP/NSP
+						   [ ] Telecom
+						   [ ] Content Delivery Network
+					      	   [ ] Content Provider
+					      	   [ ] Cloud/SaaS Provider
+					      	   [ ] Hosting Provider
+					      	   [ ] Educational Institution
+					      	   [ ] Enterprise
+						   [ ] IT Services
+						   [ ] IPTV
+				 	      	   [ ] Other: ________________
+
+Section 2: Billing Information
+ Billing Organization Name . . . . . . . . . :
+ Billing Organization Address. . . . . . . . :
+ Billing Organization City/Province/State. . :
+ Billing Organization Country. . . . . . . . :
+ Billing Organization Postal Code/Zip Code . :
+ Billing Contact Name . . . . . . . . . :
+ Billing Contact Phone. . . . . . . . . :
+ Billing Contact Fax. . . . . . . . . . :
+ Billing Contact Email. . . . . . . . . :
+ Billing Purchase Order [must provide]  :
+
+Section 3: Technical Contact Information
+ Email address for Peering. . . . . :
+ Primary Contact Name . . . . . . . : 
+ Primary Contact Email. . . . . . . :
+ Primary Contact number . . . . . . :
+ NOC Contact Email. . . . . . . . . :
+ NOC Contact number . . . . . . . . :
+ Maintenance Notication Email . . . :
+
+Section 4: TorIX connection information
+ AS Number. . . . . . . . . . . . . :
+ MAC address on router (if known) . :
+ Router/Switch info: [optional]
+      manufacturer. . . . . . . . . :
+      model . . . . . . . . . . . . :
+ Peering policy:
+      type [open/closed/conditional]:
+      notes (if any). . . . . . . . :
+ Do you intend to use our Route-Servers? . . . . : 
+ IRR ASN Object/AS-SET entry  . . . :
+
+Section 5: Cross Connect & Connection Speed information
+ Cross connect location(s). . . . . . : 151 Front Street West, Toronto:
+					[ ] Cologix (Standard Connections) (Suite 602)
+					[ ] Equinix TR1 (Suite 514)
+					[ ] Frontier Networks (Suite 824)
+					[ ] Neutral Data (Suite 800/808)
+					[ ] Other 151 Front St. W. Colocation Provider: _________________________
+					    BMMR #1 or BMMR #2: ____________
+
+				     45 Parliament Street, Toronto: 
+					[ ] Equinix TR2
+					    Party responsible for Cross-Connect (Self or TorIX): ________________
+					    (additional charges apply if TorIX supplies XC)
+ 
+				     905 King Street West, Toronto:
+				        [ ] Building Meet-Me-Room	
+
+ Cross connect order-id (if known). :
+ Estimated Date of Activation . . . : 
+ Connection Speed . . . . . . . . . : [ ] Gigabit (1000mbps) (LACP not permitted)
+				      [ ] 10GE, Subrate-1G (Less than 1gbps 95th percentile) (LACP not permitted)
+				      [ ] 10GE, Subrate-4G (Less than 4gbps 95th percentile) (LACP not permitted)
+				      [ ] 10GE, Full rate
+				      [ ] Multi-Port Bonded 10GE Full rate (LACP/Etherchannel): _____ Total Ports 
+				      [ ] 100GE, Subrate-30G (Less than 30gbps 95th percentile) (LACP not permitted)
+				      [ ] 100GE, Full rate 
+				      [ ] Multi-Port Bonded 100GE Full rate (LACP/EtherChannel): _____ Total Ports
+
+					* NOTE: TorIX does not perform rate-limiting or traffic shaping on
+						ports.  The subrate product bandwidth limits are 
+						administrative for billing only.  Once the 95th percentile
+						is exceeded, the port will be moved up to the next billing tier,
+						and a pro-rated invoice will be sent.
+
+ Media type [fibre only]. .. . . . .: [ ] Single Mode Fiber
+ Terminates on [switch/router]. . . :
+
+Section 6: TorIX Internal Use - Do not complete - Do not complete - Do not complete
+ Billing frequency. . . . . . . . . :
+ Payment terms. . . . . . . . . . . :
+ Payment method . . . . . . . . . . :
+ Payment other. . . . . . . . . . . :
+
+# EOF
+#

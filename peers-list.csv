@@ -1,0 +1,279 @@
+Company,AS Number,IPv4,IPv6,Gbits/sec,Peering Status
+"3z Canada",40028,206.108.34.81,2001:504:1a::34:81,10,Accepting
+"3z Canada",40028,206.108.35.147,2001:504:1a::35:147,10,Connecting
+"7L.com",13851,206.108.35.135,2001:504:1a::35:135,10,Accepting
+"About Communications",21552,206.108.34.119,2001:504:1a::34:119,1,Conditional
+"Access Communications",21804,206.108.35.61,2001:504:1a::35:61,20,Accepting
+"Activo, Inc.",46195,206.108.34.108,2001:504:1a::34:108,1,Accepting
+"Afilias Limited",12041,206.108.34.84,2001:504:1a::34:84,10,Not accepting
+"Agilis Networks",11522,206.108.34.75,2001:504:1a::34:75,10,Accepting
+"AirGate Technologies Inc.",394676,206.108.35.65,2001:504:1a::35:65,10,Accepting
+"Akamai Technologies",20940,206.108.34.24,2001:504:1a::34:24,100,Accepting
+"Alibaba Hong Kong Limited",45102,206.108.35.132,2001:504:1a::35:132,10,Accepting
+"All Blue Solutions",393681,206.108.34.241,2001:504:1a::34:241,1,Accepting
+"Amanah Tech Inc.",32489,206.108.35.27,2001:504:1a::35:27,20,Accepting
+"Amazon.com",16509,206.108.35.36,2001:504:1a::35:36,100,Accepting
+"Amazon.com",16509,206.108.35.37,2001:504:1a::35:37,100,Accepting
+"ANEXIA Internetdienstleistungs GmbH",42473,206.108.35.71,2001:504:1a::35:71,10,Accepting
+"Aptum Technologies (Canada) Inc.",13768,206.108.34.159,2001:504:1a::34:159,100,Conditional
+"AS112 Project",112,206.108.35.22,2001:504:1a::35:22,10,Conditional
+"Astute Internet",54527,206.108.35.110,2001:504:1a::35:110,10,Connecting
+"AT&T Global Services Canada Co.",2685,206.108.34.74,2001:504:1a::34:74,10,Accepting
+"Athena Cloud Limited",398764,206.108.35.159,2001:504:1a::35:159,10,Connecting
+"Automattic",2635,206.108.35.105,2001:504:1a::35:105,20,Accepting
+"Axia Connect Limited",54182,206.108.34.197,2001:504:1a::34:197,10,Accepting
+"Beanfield Technologies Inc.",21949,206.108.34.31,2001:504:1a::34:31,100,Accepting
+"Beanfield Technologies Inc.",21949,206.108.35.5,2001:504:1a::35:5,100,Accepting
+"bluArc Communications",21552,206.108.35.142,2001:504:1a::35:142,10,Connecting
+"Bluewater Regional Networks",394678,206.108.35.39,2001:504:1a::35:39,1,Accepting
+"Booking.com",43996,206.108.35.122,2001:504:1a::35:122,1,Accepting
+"Broad-Connect Telecom Inc.",23419,206.108.35.69,2001:504:1a::35:69,10,Accepting
+"Broadridge Customer Communications Canada",36008,206.108.35.13,2001:504:1a::35:13,10,Accepting
+"Broadridge Financial Solutions, Inc.",33166,206.108.35.124,2001:504:1a::35:124,10,Conditional
+"BT Global Services",3300,206.108.35.114,2001:504:1a::35:114,10,Conditional
+"Business Development Bank of Canada",40449,206.108.35.85,2001:504:1a::35:85,10,Conditional
+"Canaca Com",33139,206.108.34.121,2001:504:1a::34:121,10,Accepting
+"Canada Web Hosting",19234,206.108.34.72,2001:504:1a::34:72,10,Accepting
+"Canadian Broadcasting Corporation",27324,206.108.34.36,2001:504:1a::34:36,10,Accepting
+"Canadian Imperial Bank of Commerce",7741,206.108.35.149,2001:504:1a::35:149,10,Accepting
+"Canadian Imperial Bank of Commerce (B)",14121,206.108.35.150,2001:504:1a::35:150,10,Accepting
+"Canadian Internet Registration Authority",27299,206.108.34.49,2001:504:1a::34:49,10,Accepting
+"Canadian Internet Registration Authority",27299,206.108.35.107,2001:504:1a::35:107,10,Accepting
+"Canadian Internet Registration Authority (DNS)",55195,206.108.34.219,2001:504:1a::34:219,10,Accepting
+"CANARIE Inc.",6509,206.108.34.151,2001:504:1a::34:151,1,Conditional
+"CANARIE Inc.",6509,206.108.34.170,2001:504:1a::34:170,10,Conditional
+"Carbon60 Networks",393845,206.108.34.251,2001:504:1a::34:251,10,Accepting
+"ccRoute Inc",33541,206.108.34.103,2001:504:1a::34:103,10,Accepting
+"CentralNIC Plc",199330,206.108.35.88,2001:504:1a::35:88,10,Conditional
+"CentralNIC Plc",60890,206.108.35.89,2001:504:1a::35:89,10,Conditional
+"CentriLogic Inc.",14453,206.108.34.39,2001:504:1a::34:39,10,Accepting
+"China Mobile International",58453,206.108.35.53,2001:504:1a::35:53,10,Conditional
+"Choopa LLC",20473,206.108.35.117,2001:504:1a::35:117,10,Accepting
+"CIK Telecom Inc.",54614,206.108.34.223,2001:504:1a::34:223,20,Accepting
+"Cirrus Tech Ltd.",36218,206.108.35.47,2001:504:1a::35:47,1,Accepting
+"Cisco HPS",16417,206.108.35.62,2001:504:1a::35:62,10,Accepting
+"Cisco Webex",13445,206.108.34.211,2001:504:1a::34:211,10,Accepting
+"City Wide Communications",53913,206.108.35.92,2001:504:1a::35:92,10,Accepting
+"Clearcable Networks",393990,206.108.35.19,2001:504:1a::35:19,10,Accepting
+"CloudFlare, Inc.",13335,206.108.34.208,2001:504:1a::34:208,100,Accepting
+"Cloudwifi Inc.",394233,206.108.35.56,2001:504:1a::35:56,10,Accepting
+"Coextro",36445,206.108.35.4,2001:504:1a::35:4,20,Accepting
+"Cogeco Cable Canada Inc.",7992,206.108.34.27,2001:504:1a::34:27,300,Accepting
+"Communicate Freely",54351,206.108.35.43,2001:504:1a::35:43,10,Accepting
+"Computer Talk",54164,206.108.34.203,2001:504:1a::34:203,10,Not accepting
+"Comwave Telecom Inc.",15128,206.108.34.109,2001:504:1a::34:109,10,Accepting
+"Comwave Telecom Inc.",15128,206.108.35.97,2001:504:1a::35:97,10,Accepting
+"Connex Telecommunications Inc.",16949,206.108.34.63,2001:504:1a::34:63,1,Accepting
+"Continent8",14537,206.108.34.244,2001:504:1a::34:244,10,Conditional
+"CRS Networks Inc.",54002,206.108.34.180,2001:504:1a::34:180,10,Accepting
+"DataCity",31798,206.108.35.131,2001:504:1a::35:131,10,Accepting
+"Digital Ocean, Inc.",14061,206.108.35.15,2001:504:1a::35:15,30,Accepting
+"Distributel Communications, Ltd.",11814,206.108.34.14,2001:504:1a::34:14,40,Accepting
+"DNC Holdings, Inc",53997,206.108.35.146,2001:504:1a::35:146,10,Accepting
+"Docler Holding S.C  r.l.",34655,206.108.35.102,2001:504:1a::35:102,10,Conditional
+"Dropbox Inc.",19679,206.108.35.99,2001:504:1a::35:99,10,Accepting
+"Dufferin-Peel Catholic District School Board",63419,206.108.34.252,2001:504:1a::34:252,10,Accepting
+"Durham Broadband",398717,206.108.35.163,2001:504:1a::35:163,10,Connecting
+"E-Gate Communications Inc.",13657,206.108.34.8,2001:504:1a::34:8,10,Accepting
+"Eastlink Limited",11260,206.108.34.118,2001:504:1a::34:118,200,Conditional
+"EBOX",1403,206.108.34.248,2001:504:1a::34:248,20,Conditional
+"EI Catalyst Corp.",30528,206.108.34.54,2001:504:1a::34:54,1,Accepting
+"Envi Network",11635,206.108.35.103,2001:504:1a::35:103,10,Accepting
+"Epik Networks",21513,206.108.34.136,2001:504:1a::34:136,10,Accepting
+"Execulink Telecom Inc.",7794,206.108.34.21,2001:504:1a::34:21,100,Accepting
+"ExperiencePoint Inc.",53668,206.108.35.108,2001:504:1a::35:108,10,Accepting
+"F6 Networks Inc",3367,206.108.35.46,2001:504:1a::35:46,10,Accepting
+"Facebook Inc.",32934,206.108.35.2,2001:504:1a::35:2,100,Accepting
+"Facebook Inc.",32934,206.108.35.3,2001:504:1a::35:3,100,Accepting
+"Fastly Inc.",54113,206.108.35.30,2001:504:1a::35:30,100,Accepting
+"Fastly Inc.",54113,206.108.35.31,2001:504:1a::35:31,100,Accepting
+"FiberConX Communications",13895,206.108.34.206,2001:504:1a::34:206,1,Accepting
+"FiberConX Communications",13895,206.108.35.9,2001:504:1a::35:9,1,Accepting
+"Fibernetics / 295.ca",36493,206.108.34.78,2001:504:1a::34:78,20,Accepting
+"Fibrenoire Internet",22652,206.108.34.141,2001:504:1a::34:141,100,Accepting
+"FibreStream Inc.",395570,206.108.35.49,2001:504:1a::35:49,30,Accepting
+"Fidalia Networks Inc",32678,206.108.34.111,2001:504:1a::34:111,10,Accepting
+"Flowfinity Wireless Inc.",30539,206.108.34.182,2001:504:1a::34:182,10,Conditional
+"Fonthill Media Network",25948,206.108.34.193,2001:504:1a::34:193,10,Accepting
+"Forcepoint",44444,206.108.35.38,2001:504:1a::35:38,10,Accepting
+"Freedom Mobile, Inc. (I.T.)",36273,206.108.34.158,2001:504:1a::34:158,1,Accepting
+"Frontier Networks",7311,206.108.34.167,2001:504:1a::34:167,10,Accepting
+"Frontline Broadband Inc.",53338,206.108.35.42,2001:504:1a::35:42,10,Accepting
+"Frontline Broadband Inc.",53338,206.108.35.116,2001:504:1a::35:116,10,Accepting
+"Galaxybroadband Communications, Inc",14500,206.108.34.156,2001:504:1a::34:156,1,Accepting
+"Gazelle Communications",62782,206.108.34.240,2001:504:1a::34:240,1,Accepting
+"GlobalTeleHost Corp",62563,206.108.35.52,2001:504:1a::35:52,10,Accepting
+"GoCodeIT Inc",62513,206.108.35.161,2001:504:1a::35:161,10,Accepting
+"Google, Inc.",15169,206.108.34.6,2001:504:1a::34:6,100,Accepting
+"Google, Inc.",15169,206.108.35.143,2001:504:1a::35:143,100,Accepting
+"Gosfield North Communications",19465,206.108.35.78,2001:504:1a::35:78,10,Accepting
+"The Great-West Life Assurance Company",397433,206.108.35.127,2001:504:1a::35:127,10,Conditional
+"The Great-West Life Assurance Company",397433,206.108.35.128,2001:504:1a::35:128,10,Conditional
+"GTAnet Networking",549,206.108.34.207,2001:504:1a::34:207,100,Accepting
+"HCE Telecom Inc",393457,206.108.35.20,2001:504:1a::35:20,10,Accepting
+"Heavy Computing",19117,206.108.34.93,2001:504:1a::34:93,10,Accepting
+"HostCircle Inc.",396158,206.108.35.121,2001:504:1a::35:121,10,Accepting
+"Hosting Logistic Inc.",46609,206.108.34.149,2001:504:1a::34:149,10,Accepting
+"Hostopia.com Inc.",14116,206.108.34.28,2001:504:1a::34:28,10,Accepting
+"Humber College",32156,206.108.34.238,2001:504:1a::34:238,10,Not accepting
+"HuronTel",11084,206.108.35.79,2001:504:1a::35:79,10,Accepting
+"Hurricane Electric",6939,206.108.34.112,2001:504:1a::34:112,200,Accepting
+"Hydro One Telecom",19752,206.108.34.48,2001:504:1a::34:48,20,Conditional
+"i3D.net, LLC",49544,206.108.35.160,2001:504:1a::35:160,100,Accepting
+"IBM Cloud (Softlayer Canada)",36351,206.108.34.225,2001:504:1a::34:225,40,Accepting
+"Imperva Inc.",19551,206.108.35.151,2001:504:1a::35:151,10,Connecting
+"InfiniteIT",36225,206.108.34.194,2001:504:1a::34:194,10,Accepting
+"Infra-Solutions",63003,206.108.34.243,2001:504:1a::34:243,1,Accepting
+"InnSys Inc.",53732,206.108.34.185,2001:504:1a::34:185,10,Accepting
+"Intact Financial Corporation",32564,206.108.35.100,2001:504:1a::35:100,10,Conditional
+"Intact Financial Corporation",32564,206.108.35.101,2001:504:1a::35:101,10,Conditional
+"Internap Corporation",29791,206.108.35.123,2001:504:1a::35:123,10,Accepting
+"Internet Access Solutions Ltd.",33130,206.108.34.127,2001:504:1a::34:127,10,Accepting
+"Internet Light and Power, Inc.",12059,206.108.34.47,2001:504:1a::34:47,10,Accepting
+"Internet Systems Consortium, Inc.",30130,206.108.34.23,2001:504:1a::34:23,10,Accepting
+"Internetworking Atlantic",11468,206.108.34.237,2001:504:1a::34:237,10,Accepting
+"Invesco Management Group, Inc.",14630,206.108.35.91,2001:504:1a::35:91,10,Conditional
+"IPTP Networks",41095,206.108.34.224,2001:504:1a::34:224,10,Accepting
+"IrisTel",33164,206.108.34.169,2001:504:1a::34:169,10,Accepting
+"ISP Telecom Inc.",22964,206.108.34.107,2001:504:1a::34:107,1,Accepting
+"iTel Networks Inc.",16696,206.108.35.95,2001:504:1a::35:95,10,Accepting
+"iTeraTEL Communications Inc.",395768,206.108.35.29,2001:504:1a::35:29,10,Accepting
+"IX Reach Ltd (Console)",43531,206.108.35.24,2001:504:1a::35:24,1,Conditional
+"J.D. Irving Inc.",36004,206.108.35.137,2001:504:1a::35:137,10,Accepting
+"Kartina Canada",51329,206.108.34.181,2001:504:1a::34:181,10,Accepting
+"Keewaytinook Okimakanak",26288,206.108.34.60,2001:504:1a::34:60,10,Accepting
+"Korax Inc.",18650,206.108.34.32,2001:504:1a::34:32,1,Conditional
+"Lakeland Networks",30549,206.108.35.77,2001:504:1a::35:77,10,Accepting
+"Lantern Hill IT",53494,206.108.34.214,2001:504:1a::34:214,10,Accepting
+"LARG*net",819,206.108.34.175,2001:504:1a::34:175,10,Accepting
+"Limelight Networks",22822,206.108.34.94,2001:504:1a::34:94,100,Conditional
+"Limelight Networks",22822,206.108.35.139,2001:504:1a::35:139,100,Conditional
+"Linkedin Corporation",14413,206.108.34.226,2001:504:1a::34:226,10,Accepting
+"Linode LLC",63949,206.108.35.104,2001:504:1a::35:104,10,Accepting
+"Magna International",26838,206.108.34.228,2001:504:1a::34:228,10,Accepting
+"Managed Network Systems Inc.",7057,206.108.34.218,2001:504:1a::34:218,10,Conditional
+"The Manufacturers Life Insurance Company (A)",17328,206.108.35.144,2001:504:1a::35:144,10,Not accepting
+"The Manufacturers Life Insurance Company (B)",17328,206.108.35.145,2001:504:1a::35:145,10,Not accepting
+"Media Network Services",44654,206.108.35.162,2001:504:1a::35:162,10,Accepting
+"Megawire Inc.",33044,206.108.35.129,2001:504:1a::35:129,10,Accepting
+"Metro Loop",32100,206.108.34.236,2001:504:1a::34:236,10,Accepting
+"Metro Optic",29909,206.108.35.82,2001:504:1a::35:82,10,Conditional
+"Microsoft",8075,206.108.34.160,2001:504:1a::34:160,100,Accepting
+"Microsoft",8075,206.108.35.109,2001:504:1a::35:109,100,Accepting
+"Mitchell Seaforth Cable TV Ltd",11287,206.108.35.60,2001:504:1a::35:60,10,Conditional
+"N Plus Networks",393636,206.108.34.246,2001:504:1a::34:246,10,Accepting
+"Net Access Corporation",8001,206.108.34.38,2001:504:1a::34:38,1,Accepting
+"NetAccess Systems Inc.",25946,206.108.34.140,2001:504:1a::34:140,1,Accepting
+"NetActuate",36236,206.108.34.227,2001:504:1a::34:227,10,Accepting
+"Netflash Internet Solutions",40867,206.108.35.87,2001:504:1a::35:87,10,Accepting
+"NetFortris",32035,206.108.35.153,2001:504:1a::35:153,1,Accepting
+"Netrium Networks",26198,206.108.34.106,2001:504:1a::34:106,1,Accepting
+"Netskope, Inc.",55256,206.108.35.136,2001:504:1a::35:136,10,Accepting
+"NeuStyle Solutions Ltd.",4508,206.108.35.14,2001:504:1a::35:14,10,Accepting
+"Neutral Data Centres Corp.",33554,206.108.34.69,2001:504:1a::34:69,10,Conditional
+"Nexicom Inc.",11666,206.108.34.66,2001:504:1a::34:66,20,Conditional
+"Next Dimension Inc.",13727,206.108.35.18,2001:504:1a::35:18,10,Accepting
+"Nexusds.com",26531,206.108.34.57,2001:504:1a::34:57,10,Accepting
+"Niagara Regional Broadband Networks Inc",53486,206.108.34.183,2001:504:1a::34:183,10,Accepting
+"NIC.br DNS",11284,206.108.35.118,2001:504:1a::35:118,10,Accepting
+"Novus Entertainment Inc.",40029,206.108.35.63,2001:504:1a::35:63,10,Conditional
+"Odynet Inc.",13794,206.108.35.6,2001:504:1a::35:6,10,Accepting
+"Oncore Cloud Services",19382,206.108.35.90,2001:504:1a::35:90,10,Accepting
+"Ontario Research and Innovation Optical Network",26677,206.108.34.40,2001:504:1a::34:40,100,Conditional
+"OpenDNS, Inc.",36692,206.108.34.229,2001:504:1a::34:229,10,Accepting
+"Oricom Internet Inc.",19515,206.108.35.155,2001:504:1a::35:155,10,Accepting
+"OVH",16276,206.108.34.189,2001:504:1a::34:189,100,Accepting
+"Packet Clearing House",3856,206.108.34.116,2001:504:1a::34:116,10,Accepting
+"Packet-Tel Corp.",15024,206.108.34.58,2001:504:1a::34:58,10,Accepting
+"Pathway Communications",11342,206.108.34.16,2001:504:1a::34:16,10,Accepting
+"Peel District School Board",35998,206.108.34.242,2001:504:1a::34:242,20,Accepting
+"Performive",46562,206.108.35.21,2001:504:1a::35:21,100,Accepting
+"Persona Inc.",11260,206.108.34.20,2001:504:1a::34:20,100,Conditional
+"Polymer Network",53594,206.108.35.158,2001:504:1a::35:158,10,Accepting
+"PostageApp",19467,206.108.34.166,2001:504:1a::34:166,1,Conditional
+"PostMedia Network Inc.",18588,206.108.34.191,2001:504:1a::34:191,1,Accepting
+"Primus Telecommunications CA Inc.",6407,206.108.34.22,2001:504:1a::34:22,40,Accepting
+"Priority Colo Inc.",30176,206.108.34.41,2001:504:1a::34:41,10,Accepting
+"PurePages Inc.",53424,206.108.34.154,2001:504:1a::34:154,10,Not accepting
+"Purple Cow Internet",397545,206.108.35.138,2001:504:1a::35:138,10,Accepting
+"Q9 Networks Inc.",12188,206.108.34.13,2001:504:1a::34:13,10,Conditional
+"QCSTelecom Inc.",63290,206.108.35.133,2001:504:1a::35:133,10,Accepting
+"Quadro Communications Co-operative Inc.",25914,206.108.34.176,2001:504:1a::34:176,10,Accepting
+"Quantil Networks Inc",54994,206.108.35.157,2001:504:1a::35:157,10,Connecting
+"Radiant Communications Corp.",21724,206.108.34.102,2001:504:1a::34:102,10,Accepting
+"Ravand Cybertech Inc",12212,206.108.34.222,2001:504:1a::34:222,10,Accepting
+"Reenigne, Inc.",395309,206.108.35.111,2001:504:1a::35:111,10,Accepting
+"Registro.it",197440,206.108.35.25,2001:504:1a::35:25,1,Accepting
+"RingCentral",40627,206.108.35.66,2001:504:1a::35:66,10,Accepting
+"Riot Games",6507,206.108.34.247,2001:504:1a::34:247,1,Conditional
+"RISQ",376,206.108.34.163,2001:504:1a::34:163,100,Conditional
+"Rogers Communications Canada Inc.",812,206.108.34.29,2001:504:1a::34:29,100,Conditional
+"RU Networks",18997,206.108.34.215,2001:504:1a::34:215,1,Accepting
+"Ruralwave",46525,206.108.34.201,2001:504:1a::34:201,10,Accepting
+"Sandwich.Net, LLC",62512,206.108.35.64,2001:504:1a::35:64,1,Accepting
+"Saskatchewan Telecommunications",803,206.108.34.96,2001:504:1a::34:96,40,Conditional
+"Saudi Telecom Company",39386,206.108.35.152,2001:504:1a::35:152,10,Conditional
+"Seaborn",13786,206.108.35.154,2001:504:1a::35:154,10,Accepting
+"Seaside Communications",47027,206.108.34.134,2001:504:1a::34:134,10,Accepting
+"SED Multitel s.r.l.",48768,206.108.35.23,2001:504:1a::35:23,10,Accepting
+"Selectcom Telecom",40224,206.108.34.213,2001:504:1a::34:213,1,Accepting
+"Sentex Communications Corporation",11647,206.108.34.18,2001:504:1a::34:18,10,Accepting
+"Server North Inc.",32881,206.108.34.95,2001:504:1a::34:95,10,Accepting
+"SG.GS",24482,206.108.35.10,2001:504:1a::35:10,1,Accepting
+"Shaw Communications Inc.",6327,206.108.34.12,2001:504:1a::34:12,20,Conditional
+"Sheridan College",5664,206.108.34.198,2001:504:1a::34:198,10,Conditional
+"Silo Wireless",62593,206.108.35.68,2001:504:1a::35:68,10,Accepting
+"Single Digits Inc.",63383,206.108.35.73,2001:504:1a::35:73,10,Accepting
+"SSC",2675,206.108.35.140,2001:504:1a::35:140,20,Not accepting
+"Stackpath, LLC",33438,206.108.35.50,2001:504:1a::35:50,100,Conditional
+"Stackpath, LLC",33438,206.108.35.106,2001:504:1a::35:106,100,Conditional
+"Stage2Data Inc.",396984,206.108.35.112,2001:504:1a::35:112,10,Accepting
+"Start Communications",40788,206.108.34.187,2001:504:1a::34:187,100,Accepting
+"Storm Internet Services",13319,206.108.34.86,2001:504:1a::34:86,10,Conditional
+"Sun Life",46156,206.108.35.12,2001:504:1a::35:12,10,Conditional
+"Sunwire Inc",395127,206.108.35.96,2001:504:1a::35:96,10,Conditional
+"Swisscom",3303,206.108.35.134,2001:504:1a::35:134,1,Conditional
+"System Lifeline Inc.",394367,206.108.35.17,2001:504:1a::35:17,10,Accepting
+"TBayTel",32277,206.108.34.195,2001:504:1a::34:195,100,Accepting
+"TekSavvy Solutions Inc.",5645,206.108.34.67,2001:504:1a::34:67,200,Conditional
+"Telkomunikasi Indonesia International (TELIN)",7713,206.108.35.70,2001:504:1a::35:70,10,Accepting
+"telMAX Inc.",394710,206.108.35.83,2001:504:1a::35:83,10,Accepting
+"Telnyx LLC",63440,206.108.35.93,2001:504:1a::35:93,1,Accepting
+"TELUS Communications Inc",852,206.108.35.126,2001:504:1a::35:126,10,Not accepting
+"Tencent / WeChat International (Canada) Limited",132203,206.108.35.115,2001:504:1a::35:115,10,Accepting
+"TeraGo Networks Inc.",20161,206.108.34.73,2001:504:1a::34:73,10,Accepting
+"TIRASTEL GmbH",1547,206.108.35.141,2001:504:1a::35:141,10,Accepting
+"Tnext Communications Inc.",63131,206.108.35.120,2001:504:1a::35:120,10,Accepting
+"Toronto Internet eXchange - Services LAN",393424,206.108.34.1,2001:504:1a::34:1,10,Accepting
+"Toronto Internet eXchange - Services LAN",393424,206.108.35.1,2001:504:1a::35:1,10,Accepting
+"TriCity Wifi Corp",394146,206.108.35.72,2001:504:1a::35:72,10,Accepting
+"Truespeed Internet Services Inc.",53791,206.108.35.16,2001:504:1a::35:16,10,Accepting
+"Trutel",16523,206.108.34.105,2001:504:1a::34:105,1,Accepting
+"Tucows Inc.",15348,206.108.34.120,2001:504:1a::34:120,1,Accepting
+"Twitch",46489,206.108.35.45,2001:504:1a::35:45,20,Conditional
+"Twitch",46489,206.108.35.51,2001:504:1a::35:51,20,Conditional
+"Ubisoft",22634,206.108.35.125,2001:504:1a::35:125,10,Accepting
+"Unitas Global",1828,206.108.34.221,2001:504:1a::34:221,10,Accepting
+"Venture Computers Of Canada Inc",53525,206.108.34.162,2001:504:1a::34:162,1,Accepting
+"ViaNet Internet Solution",5690,206.108.34.15,2001:504:1a::34:15,100,Accepting
+"Videotron Telecom Ltee",5769,206.108.34.3,2001:504:1a::34:3,10,Conditional
+"VIF Internet",10996,206.108.34.34,2001:504:1a::34:34,10,Accepting
+"Vmedia Inc.",54198,206.108.34.235,2001:504:1a::34:235,30,Accepting
+"VSOFT Inc.",36518,206.108.34.209,2001:504:1a::34:209,1,Accepting
+"Watch Tower Canada",54235,206.108.34.216,2001:504:1a::34:216,10,Accepting
+"Westman Communication Group",19016,206.108.34.171,2001:504:1a::34:171,20,Accepting
+"Wightman Communications",29974,206.108.34.217,2001:504:1a::34:217,10,Accepting
+"The Wire Inc.",33361,206.108.34.35,2001:504:1a::34:35,1,Accepting
+"WireIE Holdings International",63170,206.108.34.239,2001:504:1a::34:239,1,Accepting
+"WoodyNet",42,206.108.34.115,2001:504:1a::34:115,10,Accepting
+"WTC Communications",23252,206.108.35.11,2001:504:1a::35:11,10,Conditional
+"XBASE Technologies",11077,206.108.35.94,2001:504:1a::35:94,10,Accepting
+"Xplornet Communications Inc.",22995,206.108.34.143,2001:504:1a::34:143,100,Accepting
+"Xplornet Communications Inc.",22995,206.108.35.113,2001:504:1a::35:113,100,Accepting
+"Yahoo Inc.",10310,206.108.35.41,2001:504:1a::35:41,10,Accepting
+"Yahoo Inc.",10310,206.108.35.40,2001:504:1a::35:40,10,Accepting
+"Zayo Group",6461,206.108.35.76,2001:504:1a::35:76,40,Conditional
+"Zip Telecom",36731,206.108.34.192,2001:504:1a::34:192,10,Accepting
+"Zscaler Inc.",22616,206.108.35.7,2001:504:1a::35:7,10,Accepting
+"Zscaler Inc.",22616,206.108.35.8,2001:504:1a::35:8,10,Accepting
+Total peer count (incl. peers with multiple TorIX IP's):,277,,,
