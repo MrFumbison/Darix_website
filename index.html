@@ -56,6 +56,11 @@
 			text-decoration: none
 		}
 	</style>
+	<style>
+		.btns{
+			color: white !important;
+		}
+	</style>
 	<link rel='stylesheet' id='uncodefont-google-css'
 		href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&amp;subset=latin%2Clatin-ext&amp;display=swap&amp;ver=2.9.1.1'
 		type='text/css' media='all' />
@@ -259,6 +264,14 @@
 			background-color: black;
 			color: white !important;
 		}
+
+		/* Media query for small screens (e.g., phones) */
+@media (max-width: 430px) {
+	.button-container {
+		flex-direction: column; /* Stack buttons vertically on small screens */
+		align-items: stretch; /* Ensures buttons take full width in column layout */
+	}
+}
 	</style>
 	<!-- <link rel="icon" href="wp-content/uploads/cropped-favicon-32x32.png" sizes="32x32" />
 	<link rel="icon" href="wp-content/uploads/cropped-favicon-192x192.png" sizes="192x192" />
@@ -269,6 +282,11 @@
 	<style>
 		.wpb_animate_when_almost_visible {
 			opacity: 1;
+		}
+	</style>
+	<style>
+		.btns{
+			color: white !important;
 		}
 	</style>
 	</noscript>
@@ -304,7 +322,7 @@
 											data-minheight="20" aria-label="Dar-es-Salaam Internet Exchange DarIX">
 											<div class="logo-image main-logo logo-skinnable" data-maxheight="60"
 												style="height: 60px;"><img fetchpriority="high" decoding="async"
-													src="wp-content/uploads/torix-lo.png" alt="logo" width="534"
+												src="mylogo.png" alt="logo" width="534"
 													height="260" class="img-responsive" /></div>
 										</a>
 									</div>
@@ -547,7 +565,7 @@
 																										class="button-container">
 																										<span
 																											class="btn-container btn-inline">
-																											<a href="index.html?p=79.html"
+																											<a href="index.html%3Fp=79.html"
 																												class="custom-button">
 																												Who is
 																												Darix <i
@@ -556,7 +574,7 @@
 																										</span>
 																										<span
 																											class="btn-container btn-inline">
-																											<a href="index.html?p=68.html"
+																											<a href="index.html%3Fp=68.html"
 																												class="custom-button">
 																												DarIX
 																												Peering
@@ -657,7 +675,7 @@
 																							class="EOP SCXO116422231"> </span>
 																					</p>
 																					<p class="text-bold"><a
-																							class="btn btn-link"
+																							class="btns"
 																							href="index.html%3Fp=68.html">Read
 																							More &gt;</a></p>
 																				</div>

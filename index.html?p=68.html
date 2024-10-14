@@ -20,8 +20,8 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:label1" content="Est. reading time" />
     <meta name="twitter:data1" content="6 minutes" />
-    <script type="application/ld+json"
-        <!-- class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.torix.ca/peering/","url":"https://www.torix.ca/peering/","name":"Peering - Toronto Internet Exchange TorIX","isPartOf":{"@id":"https://www.torix.ca/#website"},"datePublished":"2017-12-12T17:09:43+00:00","dateModified":"2023-11-25T19:59:23+00:00","breadcrumb":{"@id":"https://www.torix.ca/peering/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://www.torix.ca/peering/"]}]},{"@type":"BreadcrumbList","@id":"https://www.torix.ca/peering/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.torix.ca/"},{"@type":"ListItem","position":2,"name":"Peering"}]},{"@type":"WebSite","@id":"https://www.torix.ca/#website","url":"https://www.torix.ca/","name":"Toronto Internet Exchange TorIX","description":"One of North America&#039;s largest Exchanges","publisher":{"@id":"https://www.torix.ca/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.torix.ca/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-CA"},{"@type":"Organization","@id":"https://www.torix.ca/#organization","name":"Toronto Internet Exchange TorIX","url":"https://www.torix.ca/","logo":{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://www.torix.ca/#/schema/logo/image/","url":"https://www.torix.ca/wp-content/uploads/torix-logo.png","contentUrl":"https://www.torix.ca/wp-content/uploads/torix-logo.png","width":534,"height":260,"caption":"Toronto Internet Exchange TorIX"},"image":{"@id":"https://www.torix.ca/#/schema/logo/image/"}}]}</script> -->
+    <!-- <script type="application/ld+json"
+         class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.torix.ca/peering/","url":"https://www.torix.ca/peering/","name":"Peering - Toronto Internet Exchange TorIX","isPartOf":{"@id":"https://www.torix.ca/#website"},"datePublished":"2017-12-12T17:09:43+00:00","dateModified":"2023-11-25T19:59:23+00:00","breadcrumb":{"@id":"https://www.torix.ca/peering/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://www.torix.ca/peering/"]}]},{"@type":"BreadcrumbList","@id":"https://www.torix.ca/peering/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.torix.ca/"},{"@type":"ListItem","position":2,"name":"Peering"}]},{"@type":"WebSite","@id":"https://www.torix.ca/#website","url":"https://www.torix.ca/","name":"Toronto Internet Exchange TorIX","description":"One of North America&#039;s largest Exchanges","publisher":{"@id":"https://www.torix.ca/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.torix.ca/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-CA"},{"@type":"Organization","@id":"https://www.torix.ca/#organization","name":"Toronto Internet Exchange TorIX","url":"https://www.torix.ca/","logo":{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://www.torix.ca/#/schema/logo/image/","url":"https://www.torix.ca/wp-content/uploads/torix-logo.png","contentUrl":"https://www.torix.ca/wp-content/uploads/torix-logo.png","width":534,"height":260,"caption":"Toronto Internet Exchange TorIX"},"image":{"@id":"https://www.torix.ca/#/schema/logo/image/"}}]}</script> -->
     <!-- / Yoast SEO plugin. -->
 
 
@@ -256,14 +256,97 @@
         }
     </style>
     <style>
-        
+       .btn-containers {
+	display: block; /* Ensures the button container takes full width */
+	width: 35%; /* Sets the button container to 50% of its parent width */
+	text-align: left; /* Align the button to the left */
+}
+
+.custom-links {
+	display: flex;
+	align-items: center; /* Vertically center the text and icon */
+	justify-content: center; /* Horizontally center the text and icon inside the button */
+	padding: 12px 20px;
+	text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold !important;
+	color: black;
+	border: 1px solid black;
+	background-color: transparent;
+	font-size: 10px;
+	font-weight: 400;
+	border-radius: 0; /* Optional: Add some border radius */
+	transition: background-color 0.3s, color 0.3s; /* Smooth hover effect */
+	width: 100%; /* Button will take 100% of the container's width */
+	box-sizing: border-box; /* Ensures padding and borders are included in the button width */
+}
+
+.custom-links i {
+	margin-left: 10px; /* Adds space between the text and icon */
+}
+
+.custom-links:hover {
+	background-color: black;
+	color: white !important;
+}
+
+/* Media query for smaller screens (e.g., mobile) */
+@media (max-width: 430px) {
+	.btn-containers {
+		width: 50%; /* Full width button on small screens */
+	}
+
+	.custom-links {
+		width: 100%; /* Ensure the button is responsive on smaller screens */
+		padding: 10px 10px; /* Adjust padding for smaller screens */
+		font-size: 10px; /* Slightly larger font size for readability */
+	}
+}
+
+    </style>
+    <style>
+        .divider-wrapper {
+	width: 100%; /* Ensure the divider wrapper takes full width */
+	display: flex;
+	justify-content: center; /* Center the divider horizontally */
+}
+
+.divider {
+	display: flex;
+	justify-content: center; /* Center the icon horizontally */
+	align-items: center; /* Center the icon vertically */
+	width: 100%; /* Full width divider */
+	position: relative; /* Allows the icon to be positioned over the divider */
+	border-top: 1px solid var(--accent-color); /* Optional: Add a top border to act as the divider line */
+}
+
+.divider-icon {
+	display: flex;
+	justify-content: center; /* Centers the icon horizontally */
+	align-items: center; /* Centers the icon vertically */
+	width: -5px !important; /* Set the width of the icon container */
+	height: 60px !important; /* Set the height of the icon container (same as width for round shape) */
+	border-radius: 50% !important; /* Makes the icon container perfectly round */
+	background-color: var(--accent-color); /* Optional: Background color for the icon */
+	position: absolute;
+	top: -28px; /* Moves the icon container up to center it over the divider line */
+}
+
+.divider-icon i {
+	font-size: 15px; /* Icon size */
+	color: white; /* Icon color */
+	margin: 0; /* Ensure no unwanted margins */
+}
+
+
     </style>
         <!-- <link rel="icon" href="wp-content/uploads/cropped-favicon-32x32.png" sizes="32x32" />
     <link rel="icon" href="wp-content/uploads/cropped-favicon-192x192.png" sizes="192x192" />
     <link rel="apple-touch-icon" href="wp-content/uploads/cropped-favicon-180x180.png" />
     <meta name="msapplication-TileImage"
-        content="https://www.torix.ca/wp-content/uploads/cropped-favicon-270x270.png" />
-    <noscript> -->
+        content="https://www.torix.ca/wp-content/uploads/cropped-favicon-270x270.png" /> -->
+    <noscript>
         <style>
             .wpb_animate_when_almost_visible {
                 opacity: 1;
@@ -302,7 +385,7 @@
                                             data-minheight="20" aria-label="Dar-es-Salaam Internet Exchange DarIX">
                                             <div class="logo-image main-logo logo-skinnable" data-maxheight="60"
                                                 style="height: 60px;"><img fetchpriority="high" decoding="async"
-                                                    src="" alt="" width=""
+                                                src="mylogo.png" alt="logo" width="534"
                                                     height="260" class="img-responsive" /></div>
                                         </a>
                                     </div>
@@ -474,9 +557,9 @@
                                                                                     exchange traffic. It allows a direct
                                                                                     hand off of traffic between each
                                                                                     other’s customers.</p>
-                                                                            </div><span class="btn-container"><a
+                                                                            </div><span class="btn-containers"><a
                                                                                     href="index.html%3Fp=68.html#pricing"
-                                                                                    class="custom-link custom-button border-width-0 btn-color-prif btn-outline btn-icon-right">Connection
+                                                                                    class="custom-links custom-button border-width-0 btn-color-prif btn-outline btn-icon-right">Connection
                                                                                     Pricing<i
                                                                                         class="fa fa-chevron-circle-right"></i></a></span>
                                                                         </div>
@@ -987,7 +1070,7 @@
                                                                                                             class="uncont">
                                                                                                             <span
                                                                                                                 class="btn-container"><a
-                                                                                                                    href="index.html%3Fp=88.html"
+                                                                                                                    href=""
                                                                                                                     class="custom-link  border-width-0 btn-accent btn-icon-left">Apply
                                                                                                                     Now</a></span>
                                                                                                         </div>
