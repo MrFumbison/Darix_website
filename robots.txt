@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.torix.ca/sitemap_index.xml
+Sitemap: https://www.darix.co.tz/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
